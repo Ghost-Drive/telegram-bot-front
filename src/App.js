@@ -32,11 +32,11 @@ function App() {
   const fileDirection = useSelector(selectDirection);
   const currentUser = {
     "id": 461882488,
-    "username": "BrendonHit0",
     "first_name": "Vasya",
     "last_name": "Popovych",
-    "hash": "b0f5badd05bf2ef3ed0ca8f6ca68cfc7773bedfeb0278e069d298d8b268dfb81",
-    "auth_date": 1705610160
+    "username": "BrendonHit0",
+    "auth_date": 1705655080,
+    "hash": "a57e30b51bf45b93cb1b4c34981c67c303705072bd8422f90fe0015bd425d4d1"
     // hardcode for local
     // id: 769774901,
     // username: "sir_Malinfield",
